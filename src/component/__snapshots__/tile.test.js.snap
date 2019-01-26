@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tile should render correctly 1`] = `
+<div
+  className="tile row0 column0"
+  id="0x0"
+  onClick={[Function]}
+>
+  X
+</div>
+`;
